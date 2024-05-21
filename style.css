@@ -9,6 +9,7 @@ body {
 
 }
 
+
 .container {
     display: block;
     width: 450px;
@@ -23,11 +24,12 @@ body {
 }
 
 .container-2 {
-   
+
     width: 450px;
     display: flex;
-  
+
 }
+
 .item-2 {
     border: 2px solid black;
     margin: 5px;
